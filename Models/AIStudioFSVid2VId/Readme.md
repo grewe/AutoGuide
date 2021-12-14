@@ -1,4 +1,4 @@
-all the script, config files necessary to run in COlab for training and inference
+all the script, config files necessary to run in Colab for training and inference
 
 For preprocessing the raw data, the code and preprocessing packages are available [here](https://drive.google.com/drive/folders/1qY7QlORd2qCaayiUn4-aWbCRJ3ma7VWM )
 
