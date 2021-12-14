@@ -4,6 +4,5 @@ For preprocessing the raw data, the code and preprocessing packages are availabl
 
 The code for training AIStudio-FSVid2Vid can be found [here](https://drive.google.com/drive/folders/1ZqkhkmHLehTmpvY2XUBlHQ386ckr1CxG )
 
-XXXXXXX = colab for running our trained model
-YYYYYYY = colab for running the pre-existing pretrained model located in AIStudio FS Vid2Vid code base located at  [drive/epoch_00033_iteration_000010989](https://drive.google.com/drive/folders/1Xltzwo_mZE2Q5y8G1igg8aaJE7bXJPcJ)
+[AIStudio_FSVid2Vid.ipynb](https://github.com/grewe/AutoGuide/blob/main/Models/AIStudioFSVid2VId/Code/AIStudio_FSVid2Vid.ipynb) = colab for running the pre-existing pretrained and our trained model located in AIStudio FS Vid2Vid code base located at  [drive/epoch_00033_iteration_000010989](https://drive.google.com/drive/folders/1Xltzwo_mZE2Q5y8G1igg8aaJE7bXJPcJ)
 
