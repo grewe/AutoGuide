@@ -11,3 +11,8 @@ This work is to create a customized video for exercise correction and is realted
 
 
 
+
+### DISCLAIMER:  this github repository does not contain any cloned code from other project resources nor does it have data (which is private) but, does have colabs, configs and some basic information used in development.
+
+
+
