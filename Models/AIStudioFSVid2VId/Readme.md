@@ -1,6 +1,6 @@
 Using the AIStudio FS-vid2vid found here https://aistudio.baidu.com/aistudio/projectdetail/1469795 
 
-THIS IS NOT A repository for code but, rather one to discuss development
+## THIS IS NOT A repository for code but, rather one to discuss development
 
 PARTIAL scripts, config files necessary to run in Colab for training and inference
 
